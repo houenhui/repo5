@@ -9,5 +9,7 @@ public class Hello {
         System.out.println(1111);
 
         System.out.println("嘿嘿嘿");
+        
+        int a = 2;
     }
 }
